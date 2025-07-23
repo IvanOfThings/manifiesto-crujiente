@@ -39,7 +39,7 @@ El equipo directivo está compuesto por tres pilares fundamentales:
 
 - Gestionar las inscripciones a las ligas
 - Recaudar fondos para pagos de ligas, pistas, bolas y material necesario
-- Gestionar la revisión de DNIs antes de las confrontaciones (propios y rivales)
+- Gestionar la revisión de DNI antes de las confrontaciones (propios y rivales)
 - Acordar fechas de confrontaciones con equipos rivales
 - Realizar encuestas de disponibilidad para las confrontaciones
 - Proponer alineaciones y contrastarlas con el entrenador
@@ -57,7 +57,7 @@ El equipo directivo está compuesto por tres pilares fundamentales:
 ## 🛡️ DERECHOS DEL EQUIPO DIRECTIVO
 
 - **Las alineaciones serán inapelables** salvo error comprobado
-- En caso de duda sobre alguna alineación, los jugadores afectados deberán informar a uno de los capitanes para revisar la situación y evaluar si ha habido error o confirmar la correcta alineación
+- En caso de duda sobre alguna alineación, los jugadores afectados deberán informar a uno de los capitanes para revisar la situación y evaluar si ha habido error o, en su defecto, confirmar la correcta alineación
 
 ---
 
@@ -103,6 +103,9 @@ Como miembro de Los Crujientes, tienes derecho a:
 
 5. **🔄 Rotaciones** (especialmente en semanas con varias confrontaciones)
 
+**⚠️ EXCEPCIONES JUSTIFICADAS:**
+Las normas anteriores podrán exceptuarse únicamente en casos de **lesión**, **obligaciones paternales** o **causas justificadas de fuerza mayor**. Estas situaciones serán evaluadas por el equipo directivo con comprensión, pero siempre requieren comunicación previa y transparente.
+
 ### 🏆 **NORMAS ESPECIALES PARA FINALES:**
 
 Además de los criterios anteriores, se exige:
@@ -114,7 +117,7 @@ Además de los criterios anteriores, se exige:
 
 ## 🎭 MENSAJE FINAL
 
-Querido Crujiente,
+Querido Crujiente:
 
 Este manifiesto no es una lista de prohibiciones, sino una guía hacia la diversión organizada y el respeto mutuo. Estamos aquí para disfrutar del pádel, crear lazos de amistad y competir con honor.
 
