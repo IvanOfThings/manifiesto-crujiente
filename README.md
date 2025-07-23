@@ -66,6 +66,7 @@ El equipo directivo está compuesto por tres pilares fundamentales:
 Como miembro de Los Crujientes, te comprometes a:
 
 - ✅ **Asistir de forma regular a los entrenamientos**
+- ✅ **Tomarse en serio los entrenamientos y esforzarse al máximo**: Por respeto a los compañeros y para tener una experiencia de entrenamiento satisfactoria y exigente donde todos saquemos el máximo partido
 - ✅ **Proponer y participar en partidos del grupo regularmente** (mínimo 1 partido semanal con compañeros del equipo, además de entrenamientos)
 - ✅ **Respetar las decisiones del entrenador y capitanes**
 - ✅ **Cumplir con tu disponibilidad declarada**: Si votas disponibilidad afirmativa, podrás ser convocado hasta el último momento en caso de contingencia
@@ -93,7 +94,7 @@ Como miembro de Los Crujientes, tienes derecho a:
 
 2. **🏋️‍♂️ Participación en entrenamientos**
 
-   - Obligatorio: al menos los últimos 2 entrenamientos
+   - Obligatorio: al menos 2 entrenamientos en las últimas 4 semanas
    - Incumplimiento → Estatus de reserva (aunque voten disponible)
 
 3. **📈 Cantidad de partidos jugados**
