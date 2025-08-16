@@ -67,7 +67,7 @@ Como miembro de Los Crujientes, te comprometes a:
 
 - ✅ **Asistir de forma regular a los entrenamientos**
 - ✅ **Tomarse en serio los entrenamientos y esforzarse al máximo**: Por respeto a los compañeros y para tener una experiencia de entrenamiento satisfactoria y exigente donde todos saquemos el máximo partido
-- ✅ **Proponer y participar en partidos del grupo regularmente** (mínimo 1 partido semanal con compañeros del equipo, además de entrenamientos)
+- ✅ **Proponer y participar en partidos del grupo regularmente** (mínimo 2 partido al mes con compañeros del equipo, además de entrenamientos)
 - ✅ **Respetar las decisiones del entrenador y capitanes**
 - ✅ **Cumplir con tu disponibilidad declarada**: Si votas disponibilidad afirmativa, podrás ser convocado hasta el último momento en caso de contingencia
 - ✅ **Aceptar el estatus de reserva**: Un jugador que vote disponible pero no cumpla con las obligaciones del equipo pasará a estatus de reserva. Los jugadores en reserva tienen menor prioridad para ser alineados, siendo convocados solo cuando no hay suficientes jugadores disponibles que cumplan las obligaciones
@@ -88,16 +88,16 @@ Como miembro de Los Crujientes, tienes derecho a:
 
 ### 📊 **Criterios de Selección (en orden de prioridad):**
 
-1. **🎮 Participación en partidos semanales**
+1. **🎮 Participación en partidos con el equipo**
 
-   - Jugadores sin participación en las últimas 2 semanas → Estatus de reserva (aunque voten disponible)
+   - Jugadores sin participación con compañeros del equipo en las últimas 2 semanas → Estatus de reserva (aunque voten disponible)
 
 2. **🏋️‍♂️ Participación en entrenamientos**
 
    - Obligatorio: al menos 2 entrenamientos en las últimas 4 semanas
    - Incumplimiento → Estatus de reserva (aunque voten disponible)
 
-3. **📈 Cantidad de partidos jugados**
+3. **📈 Cantidad de partidos en liga ya jugados**
 
 4. **🤝 Afinidad de jugadores** para formar parejas competitivas
 
@@ -110,7 +110,7 @@ Las normas anteriores podrán exceptuarse únicamente en casos de **lesión**, *
 
 Además de los criterios anteriores, se exige:
 
-- **Ritmo de partido activo en el último mes**: mínimo 1 partido semanal con compañeros del equipo
+- **Ritmo de partido activo en el último mes**: mínimo 3 partido con compañeros del equipo en el último mes
 - Incumplimiento → Estatus de reserva para finales
 
 ---
